@@ -1,16 +1,29 @@
-## Hi there 👋
+Web 3.0 Security Researcher
 
-<!--
-**YYovchev123/YYovchev123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - X/Twitter: https://x.com/YovchevYoan
+ - Articles: https://medium.com/@0xsafetybytes
 
-Here are some ideas to get you started:
+Worked with Shieldify, PhageSecurity and SafetyBytes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact me at: https://t.me/yovchevyoan
+
+# Private Smart Contract Security Reviews
+
+| Protocol | Protocol Type | Report | 💼 Provider |
+|----------|-------------|------------| ------------|
+| Colb Finance - Liquids | RWAs, Pre-IPO, Liquids | Soon | [Shieldify Security](https://www.shieldify.org/) |
+| UniVoucher | DeFi Gift Cards | [📄](https://github.com/SafetyBytes/Audits/blob/main/reports/UniVoucher.pdf) | SafetyBytes - Founding Lead Auditor |
+| PandaX | Liquidity Mining / Staking | Soon | [PhageSecurity](https://phagesecurity.com/) |
+
+# Public Competitions
+
+| Protocol | Protocol Type | Language | Highlights |
+|----------|-------------|------------| ------------|
+| Pareto USP | Stable coin | Solidity | 1st 🥇 place |
+| LoopFi | Lending protocol | Solidity |  3rd 🥉 place |
+| Midas | Asset Tokenization Protocol, RWA | Solidity |  Top 5 |
+| Dodo Cross-Chain DEX | Cross-chain Decentralized Exchange | Solidity | Top 5 |
+| Summer.fi - Governance v2 | Staking, Governance | Solidity |  Top 10 |
+| Malda | Lending Protocol | Solidity | Top 10 |
+| Chainlink Rewards | Reward Distribution | Solidity | Top 10 |
+| Reflector V3 | Decentralized Price Feed Oracle | Rust | Soon |  |
