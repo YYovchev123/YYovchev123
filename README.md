@@ -14,6 +14,7 @@ Contact me at: https://t.me/yovchevyoan
 | Colb Finance - Liquids | RWAs, Pre-IPO, Liquids | Soon | [Shieldify Security](https://www.shieldify.org/) |
 | UniVoucher | DeFi Gift Cards | [📄](https://github.com/SafetyBytes/Audits/blob/main/reports/UniVoucher.pdf) | SafetyBytes - Founding Lead Auditor |
 | PandaX | Liquidity Mining / Staking | Soon | [PhageSecurity](https://phagesecurity.com/) |
+| PolyLend | Lending, Borrowing | Soon | [PhageSecurity](https://phagesecurity.com/) |
 
 # Public Competitions
 
