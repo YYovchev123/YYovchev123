@@ -3,7 +3,7 @@ Web 3.0 Security Researcher
  - X/Twitter: https://x.com/YovchevYoan
  - Articles: https://medium.com/@0xsafetybytes
 
-Worked with Shieldify, PhageSecurity and SafetyBytes
+Worked with PhageSecurity, SBSecurity, Shieldify and SafetyBytes
 
 Contact me at: https://t.me/yovchevyoan
 
