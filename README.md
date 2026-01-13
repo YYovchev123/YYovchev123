@@ -25,6 +25,7 @@ Contact me at: https://t.me/yovchevyoan
 |----------|-------------|------------| ------------|
 | Pareto USP | Stable coin | Solidity | 1st 🥇 place |
 | LoopFi | Lending protocol | Solidity |  3rd 🥉 place |
+| Inverse Finance | Yield / Slashing | Solidity |  3rd 🥉 place |
 | Midas | Asset Tokenization Protocol, RWA | Solidity |  Top 5 |
 | Dodo Cross-Chain DEX | Cross-chain Decentralized Exchange | Solidity | Top 5 |
 | Summer.fi - Governance v2 | Staking, Governance | Solidity |  Top 10 |
