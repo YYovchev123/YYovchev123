@@ -14,7 +14,7 @@ Contact me at: https://t.me/yovchevyoan
 | Spiral Stake | Leveraged Positions | Soon | [PhageSecurity](https://phagesecurity.com/) |
 | Mentorable | Bonding Curve / Token Launch Platform  | Private | [SBSecurity](https://www.sbsecurity.net/) |
 | PolyLend | Lending, Borrowing | Soon | [PhageSecurity](https://phagesecurity.com/) |
-| PandaX | Liquidity Mining / Staking | Soon | [PhageSecurity](https://phagesecurity.com/) |
+| PandaX | Liquidity Mining / Staking | Private | [PhageSecurity](https://phagesecurity.com/) |
 | Colb Finance - Liquids | RWAs, Pre-IPO, Liquids | Soon | [Shieldify Security](https://www.shieldify.org/) |
 | UniVoucher | DeFi Gift Cards | [📄](https://github.com/SafetyBytes/Audits/blob/main/reports/UniVoucher.pdf) | SafetyBytes - Founding Lead Auditor |
 
