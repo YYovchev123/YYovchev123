@@ -15,7 +15,7 @@ Contact me at: https://t.me/yovchevyoan
 | Mentorable | Bonding Curve / Token Launch Platform | 1C, 2H, 3M | Private | [SBSecurity](https://www.sbsecurity.net/) |
 | PolyLend | Lending, Borrowing | 1H, 2M | Soon | [PhageSecurity](https://phagesecurity.com/) |
 | PandaX | Liquidity Mining / Staking| 2H , 4M | Private | [PhageSecurity](https://phagesecurity.com/) |
-| Colb Finance - Liquids | RWAs, Pre-IPO, Liquids | ... | Soon | [Shieldify Security](https://www.shieldify.org/) |
+| Colb Finance - Liquids | RWAs, Pre-IPO, Liquids | 3M | Soon | [Shieldify Security](https://www.shieldify.org/) |
 | UniVoucher | DeFi Gift Cards | 3М, 1L | [📄](https://github.com/SafetyBytes/Audits/blob/main/reports/UniVoucher.pdf) | SafetyBytes - Founding Lead Auditor |
 
 # Public Competitions
